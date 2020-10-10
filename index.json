@@ -1,0 +1,39 @@
+var movies = `[
+{
+    "movieName": "Star Wars Episode 1",
+    "image": "img/StarWarsEp1.jpg",
+    "description": "Sci-Fi Movie",
+    "likes": 0
+},
+{ 
+    "movieName": "Blood Diamond",
+    "image": "img/bloodDiamond.jpg",
+    "description": "Action Movie",
+    "likes": 0 
+},
+{
+    "movieName": "James Bond Skyfall",
+    "image": "img/JamesBondSkyfall.jpg",
+    "description": "Action Movie",
+    "likes": 0 
+},
+{
+    "movieName": "The Lion King",
+    "image": "img/TheLionKing.jpg",
+    "description": "Animated Cartoon Movie",
+    "likes": 0 
+},
+{
+    "movieName": "Jason Bourne",
+    "image": "img/JasonBourne.jpg",
+    "description": "Action Movie",
+    "likes": 0 
+},
+{
+    "movieName": "Transformers",
+    "image": "img/Transformers.jpg",
+    "description": "Sci-Fi Movie",
+    "likes": 0 
+}
+
+]`

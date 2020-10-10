@@ -1,0 +1,29 @@
+nav{
+  text-decoration: none; 
+  padding-top: -2vw;
+  font-size: 1.5em;;
+  
+}
+a{
+    color:white;
+    text-decoration: none;
+ 
+}
+
+body{
+    background-color: #1D2329;
+    background-size: cover;
+}
+.col-lg 2{
+    color: white;
+}
+.circle{
+    background-color: green;
+    height: 3vw;
+    width: 3vw;
+    border-radius: 20px;
+}
+span{
+    color: green;
+}
+
