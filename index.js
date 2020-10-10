@@ -28,3 +28,4 @@ let movieInput = JSON.parse(movies);
         </div>
     `)   
 }
+
